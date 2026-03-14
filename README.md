@@ -107,8 +107,29 @@ This helps determine **which pricing models retain users more effectively**.
 - **Data Visualization**
 - **Interactive Dashboard Design**
 
+
 ---
 
-## 📷 Dashboard Preview
+## 🚀 Learning Outcomes
 
+Through this project, I improved my skills in:
 
+- Power BI dashboard development
+- Data storytelling
+- DAX calculations
+- KPI design
+- Interactive report building
+
+---
+
+## 🙌 Acknowledgment
+
+Special thanks to the **Developer YouTube Channel** for the guidance and inspiration that helped shape this project and enhance my Power BI learning journey.
+
+---
+
+## 💬 Feedback & Collaboration
+
+If you have suggestions, feedback, or collaboration ideas, feel free to connect with me on **LinkedIn**.
+
+⭐ If you found this project helpful, consider giving this repository a **star**!
